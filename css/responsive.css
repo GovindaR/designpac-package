@@ -1,0 +1,31 @@
+@media screen and (max-width:768px) {
+	.services {
+    margin: 6%;
+}
+.developer-body .desired-package{
+	    height: 130vh;
+}
+}
+@media screen and (max-width:767px) {
+	.as-service {
+    margin: 0;
+    margin-top: 17px;
+}
+.desired-package {
+    height: 130vh;
+}
+.developer-body .desired-package{
+	    height: 250vh;
+}
+.buttom-next {
+    margin-top: 30px;
+}
+.back-button,.next-button{
+	width: 100%;
+}
+.next-button{
+margin-top: 15px;
+}
+}
+
+
